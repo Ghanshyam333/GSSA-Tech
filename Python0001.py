@@ -1,5 +1,1 @@
-print("hhhhh")
-print("hhhhh")
-print("hhhhh")
-print("hhhhh")
 print("Ghanshyam Kumar jaiswal")
